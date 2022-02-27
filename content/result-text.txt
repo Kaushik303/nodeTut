@@ -1,0 +1,1 @@
+The result string is This is 1st text , This is 2nd textThe result string is This is 1st text , This is 2nd textThe result string is This is 1st text , This is 2nd textThe result string is This is 1st text , This is 2nd text
