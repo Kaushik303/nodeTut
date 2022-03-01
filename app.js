@@ -1,7 +1,11 @@
-const lodash = require('lodash');
+const http=require('http');
 
-const item=[1,[2,[3,[4]]]]
+const server=http.createServer((req,res)=>{
 
-const newitem=lodash.flattenDeep(item);
-console.log(newitem);
-console.log("Hello World");
+
+})
+
+server.listen(5000,()=>{
+console.log("Server is running at 5000.....");
+
+})
